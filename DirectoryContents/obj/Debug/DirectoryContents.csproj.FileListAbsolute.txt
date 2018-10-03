@@ -1,0 +1,9 @@
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\bin\Debug\DirectoryContents.exe.config
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\bin\Debug\DirectoryContents.exe
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\bin\Debug\DirectoryContents.pdb
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\obj\Debug\DirectoryContents.exe
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\obj\Debug\DirectoryContents.pdb
+c:\users\kaluskap\documents\visual studio 2015\Projects\DirectoryContents\DirectoryContents\obj\Debug\DirectoryContents.csprojResolveAssemblyReference.cache
+E:\Apurva\DirectoryContents\DirectoryContents\bin\Debug\DirectoryContents.exe.config
+E:\Apurva\DirectoryContents\DirectoryContents\obj\Debug\DirectoryContents.exe
+E:\Apurva\DirectoryContents\DirectoryContents\obj\Debug\DirectoryContents.pdb
